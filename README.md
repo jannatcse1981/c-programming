@@ -27,6 +27,9 @@ I love connecting with people and sharing my work — so here are all my social 
    ```bash
    git clone https://github.com/jannatcse1981/c-c-py.git
 
+## 📝 License
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
 ## 👩‍💻 Maintainer
 **FABIHA JANNAT**  
 📧 [burcinkiabey@gmail.com](mailto:burcinkiabey@gmail.com)
