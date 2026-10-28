@@ -10,7 +10,7 @@ I love connecting with people and sharing my work — so here are all my social 
 
 ## 🔗 Connect with Me
 - **GitHub**: [jannatcse1981](https://github.com/jannatcse1981)  
-- **LinkedIn**: [Fabiha Jannat](https://www.linkedin.com/in/fabiha-jannat-67a787424)  
+
 - **Instagram**: [@jannat.cse.bd](https://www.instagram.com/jannat.cse.bd)  
 
 ---
